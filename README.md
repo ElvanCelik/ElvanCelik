@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! I'm Elvan Samiye CELIK</h1>
-<h3 align="left">I am in the 2nd year of Inonu Universty, Computer Engineering department. I'm interested in back-end and front-end. </h3>
+<h3 align="left">I am in the 2nd year of Inonu Universty, Computer Engineering department. I'm training at back-end and front-end. </h3>
 
 
 📨 to reach me **elvansamiye@gmail.com**
